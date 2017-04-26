@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZB>
+	<type>
+		<code>ym</code>
+		<name>移民</name>
+	</type>
+	<type>
+		<code>wsa</code>
+		<name>姓名纹身</name>
+	</type>
+	<type>
+		<code>fc</code>
+		<name>房产证</name>
+	</type>
+	<type>
+		<code>guo</code>
+		<name>400万汤锅</name>
+	</type>
+	<type>
+		<code>jt</code>
+		<name>订制金条</name>
+	</type>
+	<type>
+		<code>fj</code>
+		<name>飞机驾照</name>
+	</type>
+	<type>
+		<code>szj</code>
+		<name>宋钟基自爆恋情</name>
+	</type>
+	<type>
+		<code>ms</code>
+		<name>玛莎拉蒂订单</name>
+	</type>
+	<type>
+		<code>hp</code>
+		<name>马云上课</name>
+	</type>
+	<type>
+		<code>jj</code>
+		<name>捐精补助</name>
+	</type>
+	<type>
+		<code>bw</code>
+		<name>相思癌症晚期</name>
+	</type>
+	<type>
+		<code>kb</code>
+		<name>科比告别举牌</name>
+	</type>
+	
+</ZB>
